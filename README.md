@@ -6,7 +6,7 @@
 ## 🎓 I'm a BE - Mechatronics student at Thapar Institute
 
 * 💡   I like to explore new technologies in the field of robotics and try to provides a practical solution to the problem.
-* 🌱  I'm on track for learning more about Artificial Intelligence, Machine Learning, and Music :)
+* 🌱  I'm on track for learning more about Artificial Intelligence, Machine Learning, and Robotics.
 * 👯  I’m looking to collaborate with anyone on projects.
 * 💬  Feel free to reach out to me for some interesting discussion.
 
