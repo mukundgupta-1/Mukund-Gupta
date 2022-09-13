@@ -22,12 +22,10 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="cpp.png" alt="CPP" height="70" style="vertical-align:top; margin:4px">
-<img src="html.png" alt="HTML" height="70" style="vertical-align:top; margin:4px">
-<img src="js.png" alt="JS" height="70" style="vertical-align:top; margin:4px">
-<img src="php.png" alt="PHP" height="70" style="vertical-align:top; margin:4px">
 <img src="py.png" alt="PYTHON" height="70" style="vertical-align:top; margin:4px">
-<img src="unity.png" alt="UNITY" height="70" style="vertical-align:top; margin:4px">
+<img src="ROS_cat.png" alt="ROS" height="70" style="vertical-align:top; margin:4px">
+<img src="Matlab_Logo.png" alt="MATLAB" height="70" style="vertical-align:top; margin:4px">
+<img src="Jupyter_logo.png" alt="MATLAB" height="70" style="vertical-align:top; margin:4px">
 <img src="vs.png" alt="Visual Studio" height="70" style="vertical-align:top; margin:4px">
 </p>
 
@@ -35,5 +33,5 @@
 
 ## ⚙️  GitHub Analytics
 
-![Tux's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuxMiester&theme=dark&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuxMiester&theme=dark)
+![Mukund's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukundgupta-1&theme=dark&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukundgupta-1&theme=dark)
 
