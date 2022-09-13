@@ -13,7 +13,7 @@
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://www.linkedin.com/in/mukundgupta2001/"><img src="" alt="LinkedIn" height="80" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/mukundgupta2001/"><img src="lld2.png" alt="LinkedIn" height="80" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:mukundgupta1919@gmail.com"> <img src="gmail.png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.instagram.com/mukund._.gupta/"> <img src="insta.png" alt="Python" height="70" style="vertical-align:top; margin:4px"></a>
 </p>
